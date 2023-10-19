@@ -1,0 +1,27 @@
+
+body {
+    background-color: #0e3427b2;
+}
+
+.background-image {
+    background-image: url('static/sebastian-unrau-sp-p7uuT0tw-unsplash.jpg'); 
+    background-size: cover;
+    background-position: center;
+    padding: 50px; 
+    margin: 150px; 
+    border-radius: 20px;
+    border: 5px dashed rgba(43, 59, 43, 0.712);
+    backdrop-filter: blur(7px);
+}
+
+#photo-gallery {
+    color: white;
+}
+
+#park-map {
+    color: white;
+}
+
+#info {
+    color: white;
+}
